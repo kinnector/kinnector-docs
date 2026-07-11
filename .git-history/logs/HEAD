@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 3a5010558b85b55d3bc225ffbd539cca55be4ba5 Gogs <gogs@fake.local> 1782840143 +0500	clone: from https://github.com/kinnector/kinnector-docs.git
+3a5010558b85b55d3bc225ffbd539cca55be4ba5 36b14bf835ce0ead4b2ae652eda2c26d7dcc510c Gogs <gogs@fake.local> 1783113225 +0500	commit: update README with index and add code rulebook documentation
+36b14bf835ce0ead4b2ae652eda2c26d7dcc510c c9b0948cb72f172b3e703d7470f5437067cfe3e5 Gogs <gogs@fake.local> 1783126874 +0500	commit: Commit changes for modular EDR hardening and threat analysis updates
+c9b0948cb72f172b3e703d7470f5437067cfe3e5 24e7fd06f67580bd20631e68d5a54c26e452cd27 goriyasno <kinnector@gmail.com> 1783126874 +0500	filter-branch: rewrite
+24e7fd06f67580bd20631e68d5a54c26e452cd27 ef5f730612e77ba4847351a47fcb8ac2b949fec1 goriyasno <kinnector@gmail.com> 1783352405 +0500	commit: docs: add project management (PM.md) documentation
+ef5f730612e77ba4847351a47fcb8ac2b949fec1 a0f64573c01971b01b884c45493d43cc59dff9cc goriyasno <kinnector@gmail.com> 1783353909 +0500	commit: docs: specify context-aware allow/deny policies and first-time SIGSTOP interception
+a0f64573c01971b01b884c45493d43cc59dff9cc 946188773d1433dc73abc29eca9c53a9c5e17326 goriyasno <kinnector@gmail.com> 1783353979 +0500	commit: revert: remove public specification section
+946188773d1433dc73abc29eca9c53a9c5e17326 7622a2b267d59a5be116b1548009500ecaaa07f2 goriyasno <kinnector@gmail.com> 1783378519 +0500	commit: Normalize kinnector brand name spelling and bolding in README
+7622a2b267d59a5be116b1548009500ecaaa07f2 e95f603a14fe998031053f591f060771dda4f88e goriyasno <kinnector@gmail.com> 1783513153 +0500	commit: docs: update supported package managers with those executing code on install
+e95f603a14fe998031053f591f060771dda4f88e a8fffd53b2e867a98b62b844dd0d7b63f2e19fa4 goriyasno <kinnector@gmail.com> 1783528832 +0500	commit: Update README.md to align with the documentation constitution
+a8fffd53b2e867a98b62b844dd0d7b63f2e19fa4 89148ad1fc07b064093ce9788c47d7ded367e9d7 goriyasno <kinnector@gmail.com> 1783567959 +0500	pull: Fast-forward
